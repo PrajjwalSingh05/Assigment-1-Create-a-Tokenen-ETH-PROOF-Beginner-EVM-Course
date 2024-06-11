@@ -1,5 +1,5 @@
-# Project Title
-Simple overview of use/purpose.
+# Project Title 
+ Create a Token 
 
 #  Description
 This program defines a simple token contract called MyToken with the following features:
